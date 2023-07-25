@@ -1,4 +1,4 @@
-const diaDaSemana = 3;
+const diaDaSemana = 10;
 if (diaDaSemana == 7) {
     console.log("Domingo")
 }
